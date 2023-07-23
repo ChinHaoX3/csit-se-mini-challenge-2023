@@ -1,4 +1,4 @@
-# CSIT SE Mini Challenge 2023
+# [CSIT SE Mini Challenge 2023](https://se-mini-challenge.csit-events.sg/)
 ## Mighty Saver Rabbit needs your help!
 As a travel enthusiast, Mighty Saver Rabbit is on the lookout for the cheapest flights and hotels for an upcoming trip with his friends.
 
